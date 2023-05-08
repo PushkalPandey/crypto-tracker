@@ -7,9 +7,9 @@
 
 > It tracks all the Crypto Coins prizes, profit, loss, rankings etc
 
-### 🏠 [Homepage](pp-crypto-tracker.netlify.app)
+### 🏠 [Homepage](https://pp-crypto-tracker.netlify.app/)
 
-### ✨ [Demo](pp-crypto-tracker.netlify.app)
+### ✨ [Demo](https://pp-crypto-tracker.netlify.app/)
 
 ## Install
 
