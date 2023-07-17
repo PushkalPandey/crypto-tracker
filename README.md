@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to crypto-hunter 👋</h1>
+<h1 align="center">Welcome to crypto-tracker 👋</h1>
 <p>
   <a href="https://twitter.com/PushkalPandey15" target="_blank">
     <img alt="Twitter: PushkalPandey15" src="https://img.shields.io/twitter/follow/PushkalPandey15.svg?style=social" />
